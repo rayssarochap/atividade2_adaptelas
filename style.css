@@ -1,0 +1,52 @@
+body{
+    background-color: #CAADE6;
+    font-family: "Nunito", sans-serif;
+    margin: 0;
+}
+
+header{
+    background-color: #610588;
+}
+
+a{
+    color:white;
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+  }
+
+.textoroxo{
+    color:#610588;
+}
+
+h1{
+    text-align: center;
+}
+
+footer{
+    margin-top: 3rem;
+    color: white;
+}
+
+h2{
+    text-align: center;
+}
+
+.fundoroxo{
+    background-color: #610588;
+    padding: 2rem;
+}
+
+.textoadapti{
+    text-align: center;
+}
+
+.space{
+    padding: 0 2rem;
+}
+
+.muie{
+    margin-top: 0.5rem;
+}
